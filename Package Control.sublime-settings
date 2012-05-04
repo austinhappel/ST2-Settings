@@ -1,0 +1,13 @@
+{
+	"auto_upgrade_last_run": 1336109926,
+	"installed_packages":
+	[
+		"Alignment",
+		"CSSLint",
+		"DocBlockr",
+		"Git",
+		"Package Control",
+		"SideBarEnhancements",
+		"sublime-jslint"
+	]
+}

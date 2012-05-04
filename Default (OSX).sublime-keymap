@@ -1,0 +1,15 @@
+[
+	{ "keys": ["super+alt+["], "command": "reindent"}, // matching textmate's reindent key command
+	{ "keys": ["ctrl+alt+1"], "command": "focus_group", "args": { "group": 0 } },
+	{ "keys": ["ctrl+alt+2"], "command": "focus_group", "args": { "group": 1 } },
+	{ "keys": ["ctrl+alt+3"], "command": "focus_group", "args": { "group": 2 } },
+	{ "keys": ["ctrl+alt+4"], "command": "focus_group", "args": { "group": 3 } },
+	{ "keys": ["ctrl+alt+shift+1"], "command": "move_to_group", "args": { "group": 0 } },
+	{ "keys": ["ctrl+alt+shift+2"], "command": "move_to_group", "args": { "group": 1 } },
+	{ "keys": ["ctrl+alt+shift+3"], "command": "move_to_group", "args": { "group": 2 } },
+	{ "keys": ["ctrl+alt+shift+4"], "command": "move_to_group", "args": { "group": 3 } },
+	{ "keys": ["ctrl+alt+0"], "command": "focus_side_bar" },
+	{ "keys": ["super+alt+backquote"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{ "keys": ["super+ctrl+a"], "command": "alignment" },
+	{ "keys": ["f2"], "command": "next_bookmark" }
+]
