@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+/*global Drupal: true, jQuery: true, gigya: true */
+/*jslint devel: true, browser: true, sloppy: true, nomen: true, maxerr: 50, indent: 2 */
+
+]]></content>
+  <tabTrigger>sptlint</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
