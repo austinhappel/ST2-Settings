@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+--------------------------------------------------------------------------------
+]]>
+	</content>
+	<tabTrigger>codeline</tabTrigger>
+	<description>Generic 80 character line</description>
+</snippet>
