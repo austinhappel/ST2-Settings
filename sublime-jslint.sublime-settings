@@ -13,7 +13,7 @@
     ],
 
     // run jslint on save.
-    "run_on_save": true,
+    "run_on_save": false,
 
     // debug flag.
     "debug": false

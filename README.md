@@ -15,6 +15,7 @@ I love ST2's Monokai theme, but hate that it doesn't have Markdown support - so 
 * Package Control
 * SideBarEnhancements
 * sublime-jslint
+* SublimeLinter
 * ASCII Decorator
 * Task
 * FileDiffs
