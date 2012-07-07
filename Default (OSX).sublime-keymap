@@ -11,5 +11,6 @@
 	{ "keys": ["ctrl+alt+0"], "command": "focus_side_bar" },
 	{ "keys": ["super+alt+backquote"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
 	{ "keys": ["super+ctrl+a"], "command": "alignment" },
-	{ "keys": ["f2"], "command": "next_bookmark" }
+	{ "keys": ["f2"], "command": "next_bookmark" },
+	{ "keys": ["ctrl+alt+j"], "command": "jslint" }
 ]
