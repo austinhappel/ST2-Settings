@@ -3,7 +3,12 @@
 	"find_selected_text": false,
 	"font_face": "Inconsolata",
 	"font_size": 16.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"scroll_past_end": false,
-	"tab_size": 4,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
