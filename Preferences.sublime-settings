@@ -9,7 +9,7 @@
 	],
 	"scroll_past_end": false,
 	//"tab_size": 2,
-	//"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": true,
 	"word_wrap": false,
-	"rulers": [80]
+	"rulers": [70, 80]
 }
