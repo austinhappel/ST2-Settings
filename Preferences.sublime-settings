@@ -7,13 +7,16 @@
 	[
 		"Vintage"
 	],
-	"scroll_past_end": false,
-	//"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
-	"rulers": [70, 80],
 	"indent_guide_options":
 	[
 		"draw_active"
-	]
+	],
+	"rulers":
+	[
+		70,
+		80
+	],
+	"scroll_past_end": false,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
 }

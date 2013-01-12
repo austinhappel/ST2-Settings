@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+/*global define, require, Backbone */
+/*jslint devel: true, browser: true, nomen: true, maxerr: 50, indent: 2 */
+
+]]></content>
+  <tabTrigger>silint</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

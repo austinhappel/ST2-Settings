@@ -2,3 +2,4 @@
 .DS_Store
 *.pyc
 Package Control.sublime-settings
+*.last-run
