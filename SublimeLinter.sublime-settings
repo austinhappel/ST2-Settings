@@ -33,6 +33,9 @@
 	    "zero-units": false
 	},
 
+	// Set this to false to turn pep8 checking off completely
+    "pep8": true,
+
 	/*
 	    A list of pep8 error numbers to ignore. By default "line too long" errors are ignored.
 	    The list of error codes is in this file: https://github.com/jcrocholl/pep8/blob/master/pep8.py.

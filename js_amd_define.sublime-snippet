@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+define([
+],
+  function () {
+    "use strict";
+  });
+
+]]></content>
+  <tabTrigger>define</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
