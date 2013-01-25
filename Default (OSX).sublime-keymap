@@ -12,5 +12,7 @@
 	{ "keys": ["super+alt+backquote"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
 	{ "keys": ["super+ctrl+a"], "command": "alignment" },
 	{ "keys": ["f2"], "command": "next_bookmark" },
-	{ "keys": ["ctrl+alt+j"], "command": "jslint" }
+	{ "keys": ["ctrl+alt+j"], "command": "jslint" },
+	{ "keys": ["super+ctrl+u"], "command": "upper_case" },
+	{ "keys": ["super+ctrl+l"], "command": "lower_case" }
 ]
