@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 /*global define: true */
-/*jslint devel: true, browser: true, sloppy: true, nomen: true, maxerr: 50, indent: 4 */
+/*jslint devel: true, browser: true, nomen: true, maxerr: 50, indent: 4 */
 
 ]]></content>
   <tabTrigger>amdlint</tabTrigger>
