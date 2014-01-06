@@ -1,5 +1,6 @@
 {
-	"javascript_linter": "jslint",
+	"javascript_linter": "jshint",
+	"jshint_options": {},
 	"csslint_options":
 	{
 	    "adjoining-classes": false,
