@@ -1,51 +1,50 @@
 {
-	"javascript_linter": "jshint",
-	"jshint_options": {},
-	"csslint_options":
-	{
-	    "adjoining-classes": false,
-	    "box-model": false,
-	    "box-sizing": false,
-	    "compatible-vendor-prefixes": false,
-	    "display-property-grouping": false,
-	    "duplicate-background-images": false,
-	    "duplicate-properties": false,
-	    "empty-rules": false,
-	    "errors": false,
-	    "fallback-colors": false,
-	    "floats": false,
-	    "font-faces": false,
-	    "font-sizes": false,
-	    "gradients": false,
-	    "ids": false,
-	    "import": false,
-	    "important": false,
-	    "known-properties": false,
-	    "outline-none": false,
-	    "overqualified-elements": false,
-	    "qualified-headings": false,
-	    "regex-selectors": false,
-	    "rules-count": false,
-	    "shorthand": false,
-	    "text-indent": false,
-	    "unique-headings": false,
-	    "universal-selector": false,
-	    "vendor-prefix": false,
-	    "zero-units": false
-	},
-
-	// Set this to false to turn pep8 checking off completely
-    "pep8": true,
-
-	/*
-	    A list of pep8 error numbers to ignore. By default "line too long" errors are ignored.
-	    The list of error codes is in this file: https://github.com/jcrocholl/pep8/blob/master/pep8.py.
-	    Search for "Ennn:", where nnn is a 3-digit number.
-	*/
-	"pep8_ignore":
-	[
-	    "E501",
-	    "E221"
-
-	]
+    "user": {
+        "debug": false,
+        "delay": 0.25,
+        "error_color": "D02000",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "gutter_theme_excludes": [],
+        "lint_mode": "background",
+        "linters": {
+            "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "pep8": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "ignore": "",
+                "max-line-length": null,
+                "select": ""
+            }
+        },
+        "mark_style": "outline",
+        "no_column_highlights_line": false,
+        "paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "python_paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "rc_search_limit": 3,
+        "shell_timeout": 10,
+        "show_errors_on_save": false,
+        "show_marks_in_minimap": true,
+        "syntax_map": {
+            "html (django)": "html",
+            "html (rails)": "html",
+            "html 5": "html",
+            "php": "html",
+            "python django": "python"
+        },
+        "warning_color": "DDB700",
+        "wrap_find": true
+    }
 }
