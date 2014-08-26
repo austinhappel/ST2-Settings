@@ -7,10 +7,21 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "coffee": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "jshint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "strict": true
             },
             "pep8": {
                 "@disable": false,
