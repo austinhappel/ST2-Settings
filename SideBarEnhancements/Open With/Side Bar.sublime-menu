@@ -32,6 +32,21 @@
 				}
 			},
 
+			{"caption":"-"},
+
+			//Mou
+			{
+				"caption": "Mou",
+				"id": "side-bar-files-open-with-mou",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "/Applications/Mou.app",
+					"extensions":".*" //any file with extension
+				}
+			},
+
 			{"caption":"-"}
 		]
 	}

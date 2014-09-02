@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"draw_white_space": "all",
 	"find_selected_text": false,
 	"font_face": "Inconsolata",
 	"font_size": 16.0,
@@ -19,7 +20,6 @@
 	"scroll_past_end": false,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
 	"trim_trailing_white_space_on_save": true,
-	"draw_white_space": "all"
+	"word_wrap": false
 }
